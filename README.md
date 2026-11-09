@@ -3,3 +3,9 @@ A retro first-person Slavic pagan fantasy game. Fight supernatural enemies with 
 
 Play the game directly in your browser:
 https://trnovan.github.io/Swords-of-Perun/
+
+## Screenshots
+
+![Title Screen](screenshots/titlescreen.png)
+
+![Gameplay](screenshots/gameplay.png)
